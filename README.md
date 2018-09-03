@@ -1,6 +1,18 @@
-Js Hello World Demo
-===================
+JavaScript RequireJS Demo
+=========================
 
-Open `index.html` in your browser.
+RequireJS是用来在浏览器中加载js模块的，文档写得极其晦涩难懂，不把人看死都写不出来一个hello world。
 
-You will see "Hello, JS!" on the page.
+好在我们现在有webpack了。
+
+```
+npm install
+npm run demo
+```
+
+![demo](./images/demo.jpg)
+
+Resources
+---------
+
+- 快速理解RequireJS: <http://freewind.in/posts/2741-understand-requirejs-quickly/>
