@@ -1,6 +1,6 @@
 requirejs.config({
     paths: {
-        hello: './hello-module'
+        hello: './hello-amd-module'
     }
 })
 
